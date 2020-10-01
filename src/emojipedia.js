@@ -87,7 +87,13 @@ const emojipedia = [
     emoji: "🥺",
     name: "Pleading Face",
     meaning: "A yellow face with furrowed eyebrows, a small frown, and large, “puppy dog” eyes, as if begging or pleading. May also represent adoration or feeling touched by a loving gesture."
-  }
+  },
+  {
+		id: 14,
+		emoji: "ðŸ˜š",
+		name: "Face Blowing a Kiss",
+		meaning: "A yellow face winking with puckered lips blowing a kiss, depicted as a small, red heart. May represent a kiss goodbye or good night and convey feelings of love and affection more generally."
+	  }
 ];
 
 export default emojipedia;
